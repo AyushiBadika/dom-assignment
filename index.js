@@ -7,3 +7,4 @@ div.style.fontSize = "18px";
 div.style.fontWeight = "bold";
 div.style.height = "200px";
 div.style.width = "300px";
+div.style.color = "blue";
